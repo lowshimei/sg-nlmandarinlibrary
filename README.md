@@ -11,8 +11,8 @@ Visit for more
   <!-- Sidebar with 4 tabs -->
   <div id="sidebar">
     <a href="#tab1" class="tab">About the Library</a>
-    <a href="#tab2" class="tab">To Donate</a>
-    <a href="#tab3" class="tab">Visit Us</a>
+    <a href="#tab2" class="tab">Donate</a>
+    <a href="#tab3" class="tab">Visit</a>
   </div>
 
   <!-- Main content area -->
