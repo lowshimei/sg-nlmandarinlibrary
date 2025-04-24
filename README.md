@@ -8,11 +8,12 @@ Visit for more
 </head>
 <body>
 
+<hide>
   <!-- Sidebar with 4 tabs -->
   <div id="sidebar">
-    <a href="tab1" class="tab">About the Library</a>
-    <a href="tab2" class="tab">Donate</a>
-    <a href="tab3" class="tab">Visit</a>
+    <a href="About" class="tab">About the Library</a>
+    <a href="Donate" class="tab">Donate</a>
+    <a href="Visit" class="tab">Visit</a>
   </div>
 
   <!-- Main content area -->
@@ -32,6 +33,8 @@ Visit for more
       <p>This is the content for Tab 3.</p>
     </div>
   </div>
-
+</div>
+</hide>
+  
 </body>
 </html>
